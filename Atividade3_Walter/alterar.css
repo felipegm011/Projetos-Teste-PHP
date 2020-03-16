@@ -1,0 +1,17 @@
+#painel{
+	width: 25%;
+	height: 485px;
+	padding: 20px;
+	background-color:LightSalmon;
+	margin: 100px auto;
+	border-radius:10px;
+	
+}
+
+#redefine{
+	background-color:Moccasin;
+}
+
+h1{
+	color:DarkRed;
+}
